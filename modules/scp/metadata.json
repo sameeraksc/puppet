@@ -1,0 +1,22 @@
+{
+  "name": "geoffwilliams-scp",
+  "version": "0.1.0",
+  "author": "Geoff Williams <geoff.williams@puppetlabs.com>",
+  "summary": "support for downloading to agents via scp",
+  "license": "GPLv2",
+  "source": "https://github.com/GeoffWilliams/puppet_scp",
+  "project_page": "https://github.com/GeoffWilliams/puppet_scp",
+  "issues_url": "https://github.com/GeoffWilliams/puppet_scp/issues",
+  "operatingsystem_support": [
+  
+  ],
+  "requirements": [
+  
+  ],
+  "tags": [
+  
+  ],
+  "dependencies": [
+  
+  ]
+}

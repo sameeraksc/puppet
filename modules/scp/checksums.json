@@ -1,0 +1,15 @@
+{
+  "Gemfile": "72ee4dd302d8fd8d7444da744f33dabb",
+  "Gemfile.lock": "b3fe833615f2f8498e953cdb5d404b7f",
+  "LICENSE": "2c1c00f9d3ed9e24fa69b932b7e7aff2",
+  "README.md": "3d87689ada347cdf3b633065fe66eb4b",
+  "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+  "lib/puppet/provider/scp/scp.rb": "32b35056dd4cf0d9052954e329d872b4",
+  "lib/puppet/type/scp.rb": "89ef497e42848d937aa564b921f3df45",
+  "manifests/init.pp": "1c37783447a6e5b429643e009e871c89",
+  "metadata.json": "4e0725d8c713455d0ab39ea9b7fb2da9",
+  "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+  "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+  "spec/unit/puppet/type/scp_type.rb": "9ee8783cf36fa0fae119874c8255026f",
+  "tests/init.pp": "5401548c4443586ff66959dc5644598a"
+}
